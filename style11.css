@@ -1,0 +1,65 @@
+body{
+    background:linear-gradient(rgb(66 60 60 / 80%),rgb(25 21 21 / 60%)),url(./SNIMAGES1.jpeg)no-repeat;
+    background-position: center;
+    
+    background-position-x: center;
+    
+    background-size: 100%;
+
+}
+.form-group,.row{
+display: inline-flex;
+
+}
+#logomaa {
+width: 10%;
+margin-left: 2%;
+margin-top: 1%;
+}
+
+
+
+
+.col-md-8{
+margin-right: 70px;
+background-color: lightslategray;
+border-radius: 53px;
+padding: 10%;
+opacity: 0.6;
+
+}
+
+
+.col-md-4{
+    margin-right: 70px;
+    background-color: lightslategray;
+    border-radius: 53px;
+    padding: 8%;
+    opacity: 0.6;
+    
+    }
+input{
+    margin-bottom: 45px;
+    margin-left: 15%;
+}
+
+.conatainer {
+        
+    margin-left: 0%;
+    
+}
+@media all and (max-width: 600px){
+
+
+    .conatainer {
+        
+        margin-left: -10%;
+        
+    }
+    
+    
+}
+
+
+
+
